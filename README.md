@@ -17,7 +17,7 @@ idea principal es que este curso sirva de introducción a la asignatura
 de infraestructura virtual o cualquier otra asignatura de informática
 avanzada.
 
-Cada sesión durará unos 20-30 minutos; el resto del trabajo se hace de
+Cada sesión durará unos 20 minutos; el resto del trabajo se hace de
 forma asíncrona interaccionando a través de un grupo de
 Telegram. Durante el curso se irá elaborando un proyecto en
 equipo de dos o tres personas. Se tendrán que alcanzar hitos del
